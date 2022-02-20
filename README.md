@@ -21,8 +21,8 @@ i)	#Use a linear search method to match the item in a list.
 ```
 ''' 
 Program for linear search method to match the item in a list
-Developed by: your name
-RegisterNumber: 
+Developed by: Mohan Raj
+RegisterNumber: 21500140
 '''
 def linearSearch(array,n,k):
     # write your code for linear search
@@ -52,8 +52,8 @@ ii)	# Find the element in a list using Binary Search(Iterative Method).
 ```
 ''' 
 Program for linear search method to match the item in a list
-Developed by: your name
-RegisterNumber: 
+Developed by: Mohan Raj
+RegisterNumber: 21500140
 '''
 def linearSearch(array,n,k):
     # write your code for linear search
@@ -84,8 +84,8 @@ iii)	# Find the element in a list using Binary Search (recursive Method).
 ```
 ''' 
 Program for linear search method to match the item in a list
-Developed by: your name
-RegisterNumber: 
+Developed by: Mohan Raj
+RegisterNumber: 21500140
 '''
 def linearSearch(array,n,k):
     # write your code for linear search
